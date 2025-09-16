@@ -13,3 +13,6 @@ Mini Movie is a React web application that allows users to explore movies using 
 - **Frontend:** React, JavaScript, HTML, CSS, Bootstrap
 - **API:** TMDb API
 - **Tools:** Visual Studio Code, Node.js, npm, Git, GitHub
+
+
+👉 Explore it here: https://lnkd.in/dr7T_pzj
